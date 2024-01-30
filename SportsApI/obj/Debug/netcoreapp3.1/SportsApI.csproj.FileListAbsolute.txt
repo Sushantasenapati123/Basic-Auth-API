@@ -1,0 +1,404 @@
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.xml
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsApI.styles.css
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.xml
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsApI.styles.css
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.StaticWebAssets.xml
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.sourcelink.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Pack.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsApI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.StaticWebAssets.xml
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Pack.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsApI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsApI.props
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsApI.props
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsApI.props
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.StaticWebAssets.xml
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Pack.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsApI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsApI.props
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsApI.props
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsApI.props
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.StaticWebAssets.xml
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Pack.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsApI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsApI.props
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsApI.props
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsApI.props
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.StaticWebAssets.xml
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.exe
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.deps.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.runtimeconfig.dev.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\PdfSharp.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Core.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.sourcelink.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.RazorTargetAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Manifest.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\SportsApI.StaticWebAssets.Pack.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsApI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsApI.props
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\SportsApI\obj\Debug\netcoreapp3.1\SportsApI.genruntimeconfig.cache

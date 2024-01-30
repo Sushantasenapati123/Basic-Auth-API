@@ -1,0 +1,106 @@
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\web Api\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.sourcelink.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\SportsApi\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\API\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\#A\Subhasmiyta oracle\New folder\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+D:\@Subha_exam\New folder (2)\FstMonthExam\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.sourcelink.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.deps.json
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Irepository.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\bin\Debug\netcoreapp3.1\Exam.Domain.pdb
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.dll
+C:\Users\sushanta.senapati\Desktop\CSM All Exam\Basic Auth\Basic-Auth-API\Exam.Irepository\obj\Debug\netcoreapp3.1\Exam.Irepository.pdb
